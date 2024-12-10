@@ -4,7 +4,7 @@ This project focuses on recognizing American Sign Language (ASL) letters using m
 
 ---
 
-![Prediction Example](image.png)
+![Prediction Example](predictionExmple.png)
 
 ---
 
