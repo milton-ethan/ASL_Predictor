@@ -32,7 +32,3 @@ This project focuses on recognizing American Sign Language (ASL) letters using m
 
 ---
 
-### Notes:
-- Ensure the image file `amer_sign2.png` is in the project folder to use it as a reference.
-- The performance of the model may vary depending on the quality and size of the dataset.
-- Use tools like TensorBoard to monitor training progress and adjust the model accordingly.
