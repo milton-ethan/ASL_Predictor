@@ -4,6 +4,10 @@ This project focuses on recognizing American Sign Language (ASL) letters using m
 
 ---
 
+![Prediction Example](image.png)
+
+---
+
 ### Instructions:
 
 1. **Install Python**:
@@ -25,10 +29,12 @@ This project focuses on recognizing American Sign Language (ASL) letters using m
      2. **Load a pre-existing neural network**: Use a saved model for testing.
    - The script then loads images from the test set and makes predictions on them.
 
-5. **Understand the ASL Mapping**:
+5. **Generate New Predictions**:
+   - After running the script, press the **spacebar** to generate a new guess for a test image.
+
+6. **Understand the ASL Mapping**:
    - Refer to the image below for the hand signs corresponding to each alphabet:
 
      ![American Sign Language](amer_sign2.png)
 
 ---
-
