@@ -1,12 +1,12 @@
-# Sign Language Recognition with MNIST
+# ASL Predictor
 
-This project focuses on recognizing American Sign Language (ASL) letters using machine learning.
+This project is designed to predict American Sign Language (ASL) letters using a machine learning model.
 
----
+## Example Prediction
 
-![Prediction Example](predictionExmple.png)
+Below is an example of the model's prediction:
 
----
+![Prediction Example](predictionExample.png)
 
 ### Instructions:
 
